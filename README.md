@@ -13,7 +13,7 @@
 
 **The most comprehensive publicly-researched database of AI, Data Science, Startup, and Tech events for June 2026 across India's two tech capitals.**
 
-[🌐 Live Report](https://amriiita07-ui.github.io/Tech-events-blr-mum-june2026/) · [📊 Event Matrix](#event-matrix) · [🎯 Top Picks](#top-10-must-attend) · [📅 By Date](#master-calendar) · [👥 By Audience](#audience-guide)
+· [📊 Event Matrix](#event-matrix) · [🎯 Top Picks](#top-10-must-attend) · [📅 By Date](#master-calendar) · [👥 By Audience](#audience-guide)
 
 </div>
 
