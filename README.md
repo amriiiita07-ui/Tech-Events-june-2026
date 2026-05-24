@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🚀 Tech Events Intelligence Report
+# Tech Events Intelligence Report
 
 ### Bengaluru & Mumbai | June 2026
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 At a Glance
+## At a Glance
 
 | Metric | Bengaluru | Mumbai | Online/Hybrid | **Total** |
 |:------:|:---------:|:------:|:-------------:|:---------:|
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 Top 10 Must-Attend Events
+## Top 10 Must-Attend Events
 
 | Rank | Event | City | Date | Price | Why Attend |
 |:----:|:------|:----:|:----:|:-----:|:-----------|
@@ -53,7 +53,7 @@
 
 ---
 
-## 📅 Master Calendar
+## Master Calendar
 
 ### Week 1 (Jun 1-7)
 
@@ -92,7 +92,7 @@
 
 ---
 
-## 🏙 City Deep-Dive
+## City Deep-Dive
 
 ### 🌶️ Bengaluru (25+ Events)
 
@@ -130,7 +130,7 @@
 
 ---
 
-## 👥 Audience Guide
+## Audience Guide
 
 ### Find Your Events by Role
 
@@ -147,7 +147,7 @@
 
 ---
 
-## 🏆 Event Categories
+## Event Categories
 
 ### 🛠 Hackathons
 
@@ -157,7 +157,7 @@
 | Bengaluru AI Hack Day (No-Code) | BLR | 7-Hour Sprint | Top 3 prizes, swag | All Levels |
 | Online Hackathons (Unstop/Devfolio) | Online | 24-48H | Cash, credits, internships | Student-friendly |
 
-### 🎓 Workshops & Bootcamps
+### Workshops & Bootcamps
 
 | Workshop | City | Date | Focus | Level |
 |:---------|:----:|:----:|:------|:-----:|
@@ -166,7 +166,7 @@
 | SAP NOW Workshop Tracks | MUM | Jun 12 | SAP Business AI, Joule, ERP | Enterprise |
 | Agentic Automation Virtual Series | Online | 3-Part | Design, Governance, Monitoring | All Levels |
 
-### 💼 Startup / VC / Founder
+### Startup / VC / Founder
 
 | Event | City | Type | Audience | Key Feature |
 |:------|:----:|:----:|:--------:|:------------|
@@ -179,7 +179,7 @@
 
 ---
 
-## 🎨 Report Features
+## Report Features
 
 The live HTML report includes:
 
@@ -197,7 +197,7 @@ The live HTML report includes:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### View the Report
 
@@ -218,7 +218,7 @@ xdg-open index.html    # Linux
 
 ---
 
-## 📡 Data Sources & Methodology
+## Data Sources & Methodology
 
 This report was compiled via deep web research across:
 
@@ -244,7 +244,7 @@ This report was compiled via deep web research across:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 - Event details (venue, time, price) may change — **always verify on the official registration page** before attending
 - Dates marked **TBA** should be checked on the organizer's platform 2–4 weeks ahead
@@ -255,7 +255,7 @@ This report was compiled via deep web research across:
 
 ---
 
-## 🙌 Contribute
+## Contribute
 
 Found an event we missed? Spot outdated info?
 
