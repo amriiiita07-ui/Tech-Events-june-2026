@@ -201,7 +201,7 @@ The live HTML report includes:
 
 ### View the Report
 
-**[➡️ Click here to view the live report](https://amriiita07-ui.github.io/Tech-events-blr-mum-june2026/)**
+**[➡️ Click here to view the live report](https://tech-events-june-2026.vercel.app/)**
 
 ### Run Locally
 
