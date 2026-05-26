@@ -13,7 +13,7 @@
 
 **The most comprehensive publicly-researched database of AI, Data Science, Startup, and Tech events for June 2026 across India's two tech capitals.**
 
-· [📊 Event Matrix](#event-matrix) · [🎯 Top Picks](#top-10-must-attend) · [📅 By Date](#master-calendar) · [👥 By Audience](#audience-guide)
+· [ Event Matrix](#event-matrix) · [ Top Picks](#top-10-must-attend) · [ By Date](#master-calendar) · [ By Audience](#audience-guide)
 
 </div>
 
@@ -94,7 +94,7 @@
 
 ## City Deep-Dive
 
-### 🌶️ Bengaluru (25+ Events)
+### Bengaluru (25+ Events)
 
 **Signature Events:**
 - **AgentCon** (Jun 20) — The marquee free AI Agents conference
@@ -111,7 +111,7 @@
 | Bangalore AI Developers | Hybrid | Weekly (online) + Monthly | Various | 54 avg |
 | Bangalore AI, ML & CV | Hybrid | Monthly | Various | Growing |
 
-### 🌊 Mumbai (15+ Events)
+### Mumbai (15+ Events)
 
 **Signature Events:**
 - **SAP NOW AI Tour** (Jun 12) — Jio World Convention Centre
@@ -136,20 +136,20 @@
 
 | If You Are... | Top 3 Events | Why |
 |:--------------|:-------------|:----|
-| **🎓 Student** | 1. AICamp Monthly (BLR/MUM) <br> 2. Global AI Mumbai <br> 3. Bengaluru AI Hack Day | Free, beginner-friendly, hands-on, networking |
-| **🤖 AI Engineer** | 1. AI Tinkerers (BLR/MUM) <br> 2. AgentCon BLR <br> 3. AICamp Codelabs | Live code, LLMs, production AI, builder network |
-| **📊 Data Scientist** | 1. Gartner D&A Summit <br> 2. SAS Innovate Tour <br> 3. AgentCon (RAG/GraphRAG) | Governance, real-world AI, advanced pipelines |
-| **🚀 Founder** | 1. Mumbai Tech Week Satellite <br> 2. WISE Tech Pitchathon <br> 3. staaake Power Walk | Investor access, pitching, organic networking |
-| **🏢 Enterprise/CXO** | 1. Gartner D&A Summit <br> 2. SAP NOW AI Tour <br> 3. Agenticon 2026 | Strategy, ERP AI, governance, peer network |
-| **🌱 Beginner** | 1. AICamp Monthly <br> 2. Agentic AI Community <br> 3. Global AI Mumbai | Welcoming, structured, free, no gatekeeping |
-| **🔒 Security Pro** | 1. Global AI Cyber & Privacy ConfEx <br> 2. SAP NOW (security track) <br> 3. Gartner (risk sessions) | AI governance, cyber resilience, compliance |
-| **👩‍💼 Women in Tech** | 1. WISE Tech Pitchathon <br> 2. AICamp (inclusive) <br> 3. Global AI Mumbai | Dedicated spaces, diverse speakers, safe community |
+| **Student** | 1. AICamp Monthly (BLR/MUM) <br> 2. Global AI Mumbai <br> 3. Bengaluru AI Hack Day | Free, beginner-friendly, hands-on, networking |
+| **AI Engineer** | 1. AI Tinkerers (BLR/MUM) <br> 2. AgentCon BLR <br> 3. AICamp Codelabs | Live code, LLMs, production AI, builder network |
+| **Data Scientist** | 1. Gartner D&A Summit <br> 2. SAS Innovate Tour <br> 3. AgentCon (RAG/GraphRAG) | Governance, real-world AI, advanced pipelines |
+| **Founder** | 1. Mumbai Tech Week Satellite <br> 2. WISE Tech Pitchathon <br> 3. staaake Power Walk | Investor access, pitching, organic networking |
+| **Enterprise/CXO** | 1. Gartner D&A Summit <br> 2. SAP NOW AI Tour <br> 3. Agenticon 2026 | Strategy, ERP AI, governance, peer network |
+| **Beginner** | 1. AICamp Monthly <br> 2. Agentic AI Community <br> 3. Global AI Mumbai | Welcoming, structured, free, no gatekeeping |
+| **Security Pro** | 1. Global AI Cyber & Privacy ConfEx <br> 2. SAP NOW (security track) <br> 3. Gartner (risk sessions) | AI governance, cyber resilience, compliance |
+| **Women in Tech** | 1. WISE Tech Pitchathon <br> 2. AICamp (inclusive) <br> 3. Global AI Mumbai | Dedicated spaces, diverse speakers, safe community |
 
 ---
 
 ## Event Categories
 
-### 🛠 Hackathons
+### Hackathons
 
 | Event | City | Format | Prize/Perk | Skill Level |
 |:------|:----:|:------:|:----------:|:-----------:|
