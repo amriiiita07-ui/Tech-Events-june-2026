@@ -38,16 +38,16 @@
 
 | Rank | Event | City | Date | Price | Why Attend |
 |:----:|:------|:----:|:----:|:-----:|:-----------|
-| ⭐ 1 | **AgentCon Bengaluru** | BLR | Jun 20 | 🟢 Free | Inaugural AI Agents conference — Global AI Community |
-| ⭐ 2 | **SAP NOW AI Tour** | MUM | Jun 12 | 🟢 Free | Enterprise AI at Jio World Convention Centre |
-| ⭐ 3 | **Gartner D&A Summit** | MUM | Jun 1-2 | 🔴 Premium | World's premier data & analytics conference |
-| ⭐ 4 | **SAS Innovate on Tour** | MUM | Jun 3 | 🟢 Free | Real-world AI governance + industry speakers |
-| ⭐ 5 | **AI Tinkerers BLR** | BLR | Monthly | 🟢 Free | 106K+ global builders. Live code demos only |
-| ⭐ 6 | **Agentic AI Community BLR** | BLR | Jun 15 | 🟢 Free | 70+ attendees/session. Virtual & in-person |
-| ⭐ 7 | **Global AI Mumbai** | MUM | Jun 6 | 🟢 Free | Full-day community event. 100+ cities worldwide |
-| ⭐ 8 | **Agenticon 2026** | BLR | Jun TBA | 🔴 Paid | India's leading enterprise Agentic AI conference |
-| ⭐ 9 | **Global AI Cyber & Privacy ConfEx** | MUM | Jun 25 | 🔴 Paid | AI + Cybersecurity + Privacy intersection |
-| ⭐ 10 | **AICamp Monthly Bangalore** | BLR | Monthly | 🟢 Free | 10K+ local members. Microsoft Reactor venue |
+| 1 | **AgentCon Bengaluru** | BLR | Jun 20 | 🟢 Free | Inaugural AI Agents conference — Global AI Community |
+| 2 | **SAP NOW AI Tour** | MUM | Jun 12 | 🟢 Free | Enterprise AI at Jio World Convention Centre |
+| 3 | **Gartner D&A Summit** | MUM | Jun 1-2 | 🔴 Premium | World's premier data & analytics conference |
+| 4 | **SAS Innovate on Tour** | MUM | Jun 3 | 🟢 Free | Real-world AI governance + industry speakers |
+| 5 | **AI Tinkerers BLR** | BLR | Monthly | 🟢 Free | 106K+ global builders. Live code demos only |
+| 6 | **Agentic AI Community BLR** | BLR | Jun 15 | 🟢 Free | 70+ attendees/session. Virtual & in-person |
+| 7 | **Global AI Mumbai** | MUM | Jun 6 | 🟢 Free | Full-day community event. 100+ cities worldwide |
+| 8 | **Agenticon 2026** | BLR | Jun TBA | 🔴 Paid | India's leading enterprise Agentic AI conference |
+| 9 | **Global AI Cyber & Privacy ConfEx** | MUM | Jun 25 | 🔴 Paid | AI + Cybersecurity + Privacy intersection |
+| 10 | **AICamp Monthly Bangalore** | BLR | Monthly | 🟢 Free | 10K+ local members. Microsoft Reactor venue |
 
 > 🟢 **Free** · 🔴 **Paid** · 🟡 **Low Cost**
 
@@ -77,7 +77,7 @@
 | Date | Day | Event | City | Type | Price |
 |:----:|:---:|:------|:----:|:----:|:-----:|
 | Jun 15 | Mon | **Agentic AI Community BLR Meetup** | BLR | Online | 🟢 Free |
-| Jun 20 | Sat | **⭐ AgentCon Bengaluru** | BLR | Conference | 🟢 Free |
+| Jun 20 | Sat | **AgentCon Bengaluru** | BLR | Conference | 🟢 Free |
 | Jun TBA | — | AI Tinkerers Bengaluru Monthly | BLR | Meetup | 🟢 Free |
 | Jun TBA | — | AICamp Bangalore Monthly | BLR | Meetup | 🟢 Free |
 
@@ -183,17 +183,17 @@
 
 The live HTML report includes:
 
-- ✅ **Executive Summary** with key stats and insights
-- ✅ **Top 10 Recommended Events** with rankings and reasoning
-- ✅ **Full Event Cards** — 40+ events with dates, venues, pricing, tags
-- ✅ **Master Table** — All events sorted chronologically
-- ✅ **City-Specific Sections** — Bengaluru & Mumbai deep-dives
-- ✅ **Hackathons, Workshops, Meetups** — Dedicated category pages
-- ✅ **Audience Matrix** — Who should attend what (with ✓/◑/– ratings)
-- ✅ **Final Recommendations** — Curated lists by persona
-- ✅ **Responsive Design** — Works beautifully on mobile & desktop
-- ✅ **Sticky Navigation** — Jump to any section instantly
-- ✅ **Professional Typography** — Syne + DM Sans font pairing
+-  **Executive Summary** with key stats and insights
+-  **Top 10 Recommended Events** with rankings and reasoning
+-  **Full Event Cards** — 40+ events with dates, venues, pricing, tags
+-  **Master Table** — All events sorted chronologically
+-  **City-Specific Sections** — Bengaluru & Mumbai deep-dives
+-  **Hackathons, Workshops, Meetups** — Dedicated category pages
+-  **Audience Matrix** — Who should attend what (with ✓/◑/– ratings)
+-  **Final Recommendations** — Curated lists by persona
+-  **Responsive Design** — Works beautifully on mobile & desktop
+-  **Sticky Navigation** — Jump to any section instantly
+-  **Professional Typography** — Syne + DM Sans font pairing
 
 ---
 
