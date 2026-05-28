@@ -5,7 +5,7 @@
 
 ### Bengaluru & Mumbai | June 2026
 
-[![Events](https://img.shields.io/badge/Events-40%2B-coral?style=for-the-badge&logo=eventbrite)](https://tech-events-june-2026.vercel.app/)
+[![Events](https://img.shields.io/badge/Events-40%2B-coral?style=for-the-badge&logo=eventbrite)](https://github.com/amriiiita07-ui/Tech-Events-june-2026#event-categories)
 [![Cities](https://img.shields.io/badge/Cities-2-blue?style=for-the-badge&logo=google-maps)](https://github.com/amriiiita07-ui/Tech-Events-june-2026#city-deep-dive)
 [![Free Events](https://img.shields.io/badge/Free%20Events-15%2B-teal?style=for-the-badge&logo=opensourceinitiative)](https://tech-events-june-2026.vercel.app/)
 [![Domains](https://img.shields.io/badge/Domains-8%2B-purple?style=for-the-badge&logo=stackshare)](https://github.com/amriiiita07-ui/Tech-Events-june-2026#data-sources-&-methodology)
