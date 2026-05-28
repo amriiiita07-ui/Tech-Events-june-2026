@@ -5,11 +5,11 @@
 
 ### Bengaluru & Mumbai | June 2026
 
-[![Events](https://img.shields.io/badge/Events-40%2B-coral?style=for-the-badge&logo=eventbrite)](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026)
-[![Cities](https://img.shields.io/badge/Cities-2-blue?style=for-the-badge&logo=google-maps)](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026)
-[![Free Events](https://img.shields.io/badge/Free%20Events-15%2B-teal?style=for-the-badge&logo=opensourceinitiative)](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026)
-[![Domains](https://img.shields.io/badge/Domains-8%2B-purple?style=for-the-badge&logo=stackshare)](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-555?style=for-the-badge&logo=clockify)](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026)
+[![Events](https://img.shields.io/badge/Events-40%2B-coral?style=for-the-badge&logo=eventbrite)](https://tech-events-june-2026.vercel.app/)
+[![Cities](https://img.shields.io/badge/Cities-2-blue?style=for-the-badge&logo=google-maps)](https://github.com/amriiiita07-ui/Tech-Events-june-2026#city-deep-dive)
+[![Free Events](https://img.shields.io/badge/Free%20Events-15%2B-teal?style=for-the-badge&logo=opensourceinitiative)](https://tech-events-june-2026.vercel.app/)
+[![Domains](https://img.shields.io/badge/Domains-8%2B-purple?style=for-the-badge&logo=stackshare)](https://github.com/amriiiita07-ui/Tech-Events-june-2026#data-sources-&-methodology)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-555?style=for-the-badge&logo=clockify)](https://tech-events-june-2026.vercel.app/)
 
 **The most comprehensive publicly-researched database of AI, Data Science, Startup, and Tech events for June 2026 across India's two tech capitals.**
 
