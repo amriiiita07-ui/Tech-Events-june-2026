@@ -271,7 +271,7 @@ We welcome corrections and additions!
 
 **Built with ❤️ for the Indian tech community**
 
-[🌐 Live Report](https://amriiita07-ui.github.io/Tech-events-blr-mum-june2026/) · [⭐ Star this repo](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026) · [🐛 Report Issue](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026/issues)
+[Live Report](https://tech-events-june-2026.vercel.app/) · [Star this repo](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026) · [Report Issue](https://github.com/amriiita07-ui/Tech-events-blr-mum-june2026/issues)
 
 </div>
 """
