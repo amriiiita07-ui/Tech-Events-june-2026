@@ -13,7 +13,7 @@
 
 **The most comprehensive publicly-researched database of AI, Data Science, Startup, and Tech events for June 2026 across India's two tech capitals.**
 
-· [ Event Matrix](#event-matrix) · [ Top Picks](#top-10-must-attend) · [ By Date](#master-calendar) · [ By Audience](#audience-guide)
+· [ Event Matrix](https://github.com/amriiiita07-ui/Tech-Events-june-2026/blob/main/events-overview-chart.png) · [ Top Picks](https://github.com/amriiiita07-ui/Tech-Events-june-2026#top-10-must-attend) · [ By Date](https://github.com/amriiiita07-ui/Tech-Events-june-2026#master-calendar) · [ By Audience](https://github.com/amriiiita07-ui/Tech-Events-june-2026#audience-guide)
 
 </div>
 
